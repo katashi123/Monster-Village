@@ -1,0 +1,23 @@
+Game breaking bugs:
+Jet on the 3rd day stops you from leaving the cave, freezing the game
+If genko hasn't moved forward one after the fight, you are stuck
+you can still go back to the farm in the final scene, ruining the ending
+
+general bugs:
+mother and chiori just walk into the wall and don't go back
+dwarf seizure at tavern
+
+serious concerns by users:
+writing feels a bit forced, needed overhaul
+fishing is boring
+overall crafting system needs serious work
+fighting is too difficult
+maybe have someone warning the player not to go straight into the forest without training/equipping armor
+the text boxes don't flow well, completely redo with new text.
+not enough interaction between character and townspeople
+tavern is empy every day except for last.
+hard to talk to everyone at the final day due to map being small
+small mispellings
+apprenticing doesn't open up too much gameplay (add a lot more to crafting, cooking, fighting, fishing mini game)
+ideas for future:
+wait until I've learned a lot more, serious work needs to be put in the make the game playable the way I want it to be.
