@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"beast_hero_2_sv","characterIndex":1,"characterName":"beast_tribe_2","classId":1,"equips":[2,0,0,0,0],"faceIndex":0,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Matsuki","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"beast_hero_2_sv","characterIndex":0,"characterName":"$beast_hero_2","classId":1,"equips":[2,0,0,0,0],"faceIndex":4,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Matsuki","nickname":"","note":"","profile":""}
+]

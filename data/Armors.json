@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"atypeId":5,"description":"A simple wooden shield painted around the edges to make\nit look better. It isn't much, but it's yours.","etypeId":2,"traits":[],"iconIndex":448,"name":"Simple Shield","note":"<Synthesis Ingredients>\nWood: 2\n</Synthesis Ingredients>","params":[0,0,0,6,0,0,0,0],"price":30},
+{"id":2,"atypeId":1,"description":"It doesn't actually protect you much, but it makes you \nfeel like a real adventurer.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":160,"name":"Cap","note":"<Synthesis Ingredients>\nLeather: 1\nString: 1\n</Synthesis Ingredients>","params":[0,0,0,3,0,0,0,0],"price":25},
+{"id":3,"atypeId":1,"description":"Made out of a thin cloth, you aren't going to be \nprotected from much of anything, be it blade or air.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":152,"name":"Wrap-Around","note":"<Synthesis Ingredients>\nCloth: 3\n</Synthesis Ingredients>","params":[0,0,0,5,0,0,0,0],"price":50},
+{"id":4,"atypeId":0,"description":"A symbol, of promises, of caring. Are you really ready to give this to someone?","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":215,"name":"Ring","note":"<Synthesis Ingredients>\nIron Ore: 1\nRuby: 1\n</Synthesis Ingredients>","params":[0,0,0,0,0,0,0,0],"price":0}
+]
